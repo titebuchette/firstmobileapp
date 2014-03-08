@@ -3,4 +3,4 @@ Track And Field for iPhone
 
 Track & Field for iPhone is a game app with a retro feel.
 
-Copyright 2014
+Copyright © 2014
