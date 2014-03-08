@@ -38,7 +38,7 @@
 - (IBAction)showMessage
 {
     UIAlertView *helloWorldAlert = [[UIAlertView alloc]
-                                    initWithTitle:@"My First App" message:@"Hello, BG!" delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
+                                    initWithTitle:@"My First App" message:@"Hello, les BG!" delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil];
     
     // Display the Hello World Message
     [helloWorldAlert show];
