@@ -1,4 +1,4 @@
-firstmobileapp
+Track And Field for iPhone
 =========
 
-firstmobileapp is out first attempt to create an app for iPhone Modification
+Track & Field for iPhone is a game app with a retro feel.
